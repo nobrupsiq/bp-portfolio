@@ -61,7 +61,7 @@ const HeroText = () => {
           animate="visible"
           transition={{ delay: 1 }}
         >
-          Hi,I'm Bruno Pires
+          Olá, sou Bruno
         </motion.p>
         <div>
           <motion.p
@@ -71,7 +71,7 @@ const HeroText = () => {
             animate="visible"
             transition={{ delay: 1.2 }}
           >
-            Building
+            Construindo
           </motion.p>
           <motion.div
             variants={variants}
@@ -91,7 +91,7 @@ const HeroText = () => {
             animate="visible"
             transition={{ delay: 1.8 }}
           >
-            Web Applications
+            Aplicações Web
           </motion.p>
         </div>
       </div>
