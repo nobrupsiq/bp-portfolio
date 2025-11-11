@@ -10,6 +10,7 @@ export function Frameworks() {
     "sqlite",
     "tailwindcss",
     "vitejs",
+    "visualstudiocode",
   ];
   return (
     <div className="relative flex h-[15rem] w-full flex-col items-center justify-center ">
