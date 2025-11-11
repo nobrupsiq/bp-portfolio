@@ -9,7 +9,7 @@ const About = () => {
 
   return (
     <section className="c-space section-spacing">
-      <h2 className="text-heading">About me</h2>
+      <h2 className="text-heading">Sobre mim</h2>
       <div className="grid grid-cols-1 gap-4 md:grid-cols-6 md:auto-rows-[18rem] mt-12">
         {/* Grid 1 */}
         <div className="flex items-end grid-default-color grid-1">
@@ -18,10 +18,11 @@ const About = () => {
             className="absolute scale-[1.75] -right-[5rem] -top-[1rem]  md:scale-[3] md:left-50 md:inset-y-10 lg:scale-[2.5]"
           />
           <div className="z-10">
-            <p className="headtext">Hi, i'm Bruno Pires</p>
+            <p className="headtext">Olá, eu sou Bruno Pires</p>
             <p className="subtext">
-              Over the 4 years, I developed my frontend and backend dev Skills
-              to deliver dynamic and responsive software and web applications.
+              Ao longo da minha jornada de estudos, desenvolvo minhas
+              habilidades de desenvolvimento frontend para entregar softwares e
+              aplicações web dinâmicos e responsivos.
             </p>
           </div>
           <div className="absolute inset-x-0 pointer-events-none -bottom-4 h-1/2 sm:h-1/3 bg-gradient-to-top from-indigo"></div>
@@ -33,46 +34,46 @@ const About = () => {
             className="flex items-center justify-center w-full h-full"
           >
             <p className="flex items-end text-5xl text-gray-500">
-              CODE IS CRAFT
+              CÓDIGO É ARTE
             </p>
             <Card
               style={{ rotate: "75deg", top: "30%", left: "20%" }}
-              text="GRASP"
+              text="JavaScript"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-30deg", top: "60%", left: "45%" }}
-              text="SOLID"
+              text="CSS"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "90deg", bottom: "30%", left: "70%" }}
-              text="Design Patterns"
+              text="Design"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "55%", left: "0%" }}
-              text="Design Principles"
+              text="HTML"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "20deg", top: "10%", left: "38%" }}
-              text="SRP"
+              text="Tailwindcss"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "30deg", top: "70%", left: "70%" }}
-              image="assets/logos/csharp-pink.png"
+              image="assets/logos/javascript.png"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "70%", left: "25%" }}
-              image="assets/logos/dotnet-pink.png"
+              image="assets/logos/css3.svg"
               containerRef={grid2Container}
             />
             <Card
               style={{ rotate: "-45deg", top: "5%", left: "10%" }}
-              image="assets/logos/blazor-pink.png"
+              image="assets/logos/html5.svg"
               containerRef={grid2Container}
             />
           </div>
@@ -82,7 +83,8 @@ const About = () => {
           <div className="z-10 w-[50%]">
             <p className="headtext">Time Zone</p>
             <p className="subtext">
-              I'm based in Mars, and open to remote work worldwide
+              Moro no Rio de janeiro e estou aberto a trabalhar/Estagiar
+              remotamente.
             </p>
           </div>
           <figure className="absolute left-[30%] top-[10%]">
@@ -93,7 +95,7 @@ const About = () => {
         <div className="grid-special-color grid-4">
           <div className="flex flex-col items-center justify-center gap-4 size-full">
             <p className="text-center headtext">
-              Do you want to start a project together?
+              Você quer começar um projeto junto?
             </p>
             <CopyEmailButton />
           </div>
@@ -101,10 +103,10 @@ const About = () => {
         {/* Grid 5 */}
         <div className="grid-default-color grid-5">
           <div className="z-10 w-[50%]">
-            <p className="headtext">Teck Stack</p>
+            <p className="headtext">Linguagens e ferramentas</p>
             <p className="subtext">
-              I espcialize in a variety of languages, frameworks, and tools taht
-              allow me to build robust and scalable applications
+              Durante meus estudos estou aprendendo bastante sobre o mundo do
+              frontend. Isso me permite construir aplicações lindas e robustas.
             </p>
           </div>
           <div className="absolute inset-y-0 md:inset-y-9 w-full h-full start-[50%] md:scale-125">
