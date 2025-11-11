@@ -81,7 +81,7 @@ const About = () => {
         {/* Grid 3 */}
         <div className="grid-black-color grid-3">
           <div className="z-10 w-[50%]">
-            <p className="headtext">Time Zone</p>
+            <p className="headtext">Fuso horário</p>
             <p className="subtext">
               Moro no Rio de janeiro e estou aberto a trabalhar/Estagiar
               remotamente.
