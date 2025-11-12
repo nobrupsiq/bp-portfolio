@@ -236,36 +236,27 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
+    title: "Estácio",
+    job: "Tecnólogo em Análise e desenvolvimento de sistemas",
+    date: "2021-Concluído",
     contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
+      "Embora o curso tenha sido realizado na modalidade EAD, e o aprendizado prático tenha exigido muita dedicação fora da grade curricular, essa experiência me ajudou a desenvolver autonomia, disciplina e curiosidade constante por aprender mais. Grande parte do meu conhecimento técnico veio da prática em projetos reais, estudos independentes e cursos complementares, que me permitiram consolidar o que aprendi na graduação e aplicar na construção de soluções de verdade.",
     ],
   },
   {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
+    title: "Programadores Cariocas",
+    job: "Desenvolvimento Fullstack",
+    date: "2022-Concluído",
     contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
+      "Participei do programa Programadores Cariocas, uma iniciativa de capacitação em Programação Web ministrada pelo Senac RJ, com foco no desenvolvimento de aplicações modernas e completas para a web. Durante o curso, aprofundei meus conhecimentos em JavaScript, Node.js, React.js, SQL, MySQL, HTML e CSS3, aplicando na prática os conceitos de frontend, backend e banco de dados.O programa também enfatizou trabalho em equipe, metodologias ágeis e boas práticas de desenvolvimento, preparando-me para atuar de forma eficiente em projetos reais.",
     ],
   },
   {
-    title: "Freelance Developer",
-    job: "Self-Employed",
-    date: "2025-Present",
+    title: "Univassouras",
+    job: "Graduação Engenharia de software",
+    date: "2024-Presente",
     contents: [
-      "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
-      "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
+      "Atualmente curso Engenharia de Software, dando continuidade à minha formação em tecnologia e aprofundando meus conhecimentos em arquitetura de sistemas, qualidade de software, engenharia de requisitos, design de soluções e gestão de projetos de desenvolvimento. Essa nova etapa acadêmica reflete meu compromisso em evoluir como profissional da área, buscando sempre alinhar boas práticas de engenharia com inovação e eficiência no desenvolvimento de software.",
     ],
   },
 ];
