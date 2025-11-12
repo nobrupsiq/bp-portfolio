@@ -4,7 +4,7 @@ import { useFrame } from "@react-three/fiber";
 
 export function Computer(props) {
   const group = useRef();
-  const { nodes, materials } = useGLTF("../../public/models/my_computer.glb");
+  const { nodes, materials } = useGLTF("/models/my_computer.glb");
 
   useFrame((state) => {
     const t = state.clock.getElapsedTime(); // tempo correndo desde o início
