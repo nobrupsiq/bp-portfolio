@@ -15,6 +15,7 @@ const Hero = () => {
           ? "flex-col items-center justify-center"
           : "flex-row items-start justify-between"
       } min-h-screen overflow-hidden c-space`}
+      id="home"
     >
       <HeroText />
       <ParallaxBackground />
