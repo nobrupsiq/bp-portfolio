@@ -29,4 +29,4 @@ export function Computer(props) {
   );
 }
 
-useGLTF.preload("../../public/models/my_computer.glb");
+useGLTF.preload("/models/my_computer.glb");
