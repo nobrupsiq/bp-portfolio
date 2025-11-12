@@ -16,7 +16,7 @@ const HeroText = () => {
           variants={variants}
           initial="hidden"
           animate="visible"
-          transition={{ delay: 1 }}
+          transition={{ delay: 0.2 }}
         >
           Olá, sou Bruno
         </motion.h1>
@@ -26,7 +26,7 @@ const HeroText = () => {
             variants={variants}
             initial="hidden"
             animate="visible"
-            transition={{ delay: 1.2 }}
+            transition={{ delay: 0.3 }}
           >
             um desenvolvedor <br /> dedicado a criação
           </motion.p>
@@ -34,7 +34,7 @@ const HeroText = () => {
             variants={variants}
             initial="hidden"
             animate="visible"
-            transition={{ delay: 1.5 }}
+            transition={{ delay: 0.4 }}
           >
             <FlipWords
               words={words}
@@ -46,7 +46,7 @@ const HeroText = () => {
             variants={variants}
             initial="hidden"
             animate="visible"
-            transition={{ delay: 1.8 }}
+            transition={{ delay: 0.5 }}
           >
             de soluções web
           </motion.p>
@@ -59,7 +59,7 @@ const HeroText = () => {
           variants={variants}
           initial="hidden"
           animate="visible"
-          transition={{ delay: 1 }}
+          transition={{ delay: 0.2 }}
         >
           Olá, sou Bruno
         </motion.p>
@@ -69,7 +69,7 @@ const HeroText = () => {
             variants={variants}
             initial="hidden"
             animate="visible"
-            transition={{ delay: 1.2 }}
+            transition={{ delay: 0.4 }}
           >
             Construindo
           </motion.p>
@@ -77,7 +77,7 @@ const HeroText = () => {
             variants={variants}
             initial="hidden"
             animate="visible"
-            transition={{ delay: 1.5 }}
+            transition={{ delay: 0.6 }}
           >
             <FlipWords
               words={words}
@@ -89,7 +89,7 @@ const HeroText = () => {
             variants={variants}
             initial="hidden"
             animate="visible"
-            transition={{ delay: 1.8 }}
+            transition={{ delay: 0.8 }}
           >
             Aplicações Web
           </motion.p>

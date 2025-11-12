@@ -27,12 +27,12 @@ const Hero = () => {
         }`}
       >
         <motion.div
-          initial={{ y: -200, opacity: 0 }} // começa fora da tela, no topo
+          initial={{ y: -400, opacity: 0 }} // começa fora da tela, no topo
           animate={{ y: 0, opacity: 1 }} // desce pro lugar e aparece
           transition={{
             type: "spring", // efeito elástico
             stiffness: 80,
-            damping: 15,
+            damping: 8,
             duration: 2,
           }}
           className="w-full h-full"
