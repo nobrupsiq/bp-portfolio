@@ -7,7 +7,7 @@ export const myProjects = [
     subDescription: [
       "Facilitar o estudo para concursos, oferecendo uma plataforma simples, responsiva e intuitiva para resolver questões de forma prática.",
     ],
-    href: "",
+    href: "https://nobrupsiq.github.io/questoes-concurso/",
     logo: "",
     image: "/assets/projects/questoes-concurso.png",
     tags: [
@@ -41,7 +41,7 @@ export const myProjects = [
     subDescription: [
       "Facilitar a mobilidade e a descoberta de novos destinos em Saquarema, integrando tecnologia e turismo em uma experiência digital moderna e acessível.",
     ],
-    href: "",
+    href: "https://www.saquaremago.com.br/",
     logo: "",
     image: "/assets/projects/saquaremago.png",
     tags: [
@@ -75,7 +75,7 @@ export const myProjects = [
     subDescription: [
       "Desenvolvimento completo do front-end, estruturação do layout responsivo e implementação das seções informativas conforme a identidade visual da marca.",
     ],
-    href: "",
+    href: "https://www.conexaon1.com.br/",
     logo: "",
     image: "/assets/projects/conexaon1.png",
     tags: [
@@ -114,7 +114,7 @@ export const myProjects = [
     subDescription: [
       "Demonstrar o domínio de operações REST e manipulação de dados no front-end, simulando um ambiente real de gerenciamento de filmes, sessões e catálogos.",
     ],
-    href: "",
+    href: "https://nobrupsiq.github.io/cinemix-purejs/",
     logo: "",
     image: "/assets/projects/cinemix.png",
     tags: [
@@ -153,7 +153,7 @@ export const myProjects = [
     subDescription: [
       "Desenvolver uma galeria dinâmica e envolvente de Pokémon, explorando o consumo de APIs, manipulação do DOM e recursos avançados de interação visual.",
     ],
-    href: "",
+    href: "https://nobrupsiq.github.io/PokemonSlide/",
     logo: "",
     image: "/assets/projects/pokemon.png",
     tags: [
@@ -188,7 +188,7 @@ export const myProjects = [
     subDescription: [
       "Muito além de código, o curso proporcionou uma visão melhor para o desenvolvimento web. A partir do que é passado pude aprender dicas preciosas que tornam um site muito mais atrativo, passando por design, prototipação, escolha dos elementos visuais corretos, codificação, dicas do que funciona em um site, hospedagem e até mesmo analytics.",
     ],
-    href: "",
+    href: "https://nobrupsiq.github.io/bikcraft/",
     logo: "",
     image: "/assets/projects/bikecraft.png",
     tags: [
